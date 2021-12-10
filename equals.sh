@@ -1,5 +1,6 @@
 #!/bin/bash
 #manoj
+#changed
 echo "Enter the number"
 read number
 if [ $number -eq 5 ]
