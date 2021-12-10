@@ -1,4 +1,6 @@
 #!/bin/bash
+# Sachin added this line
+# sachin
 # Naveen
 #changed
 echo "Enter the number"
